@@ -4,7 +4,7 @@ title: Hello World!
 ---
 
 <p>
-After fiddling with Blogger.com for a couple of hours, I discovered <a href='http://pages.github.com'>Github pages</a>! Oh the joy, will make a detailed post on Github pages and <a href='https://github.com/mojombo/jekyll'>Jekyll</a> when I feel that I got the hang of it. 
+After fiddling with Blogger.com for a couple of hours, I discovered <a href='http://pages.github.com'>Github pages</a>! Oh the joy, will make a detailed post on Github pages and <a href='https://github.com/mojombo/jekyll'>Jekyll</a> when I feel that I got the hang of it. This blog is open sourced, you can find everything <a href='https://github.com/aqabawe/aqabawe.github.com'>here</a>
 </p>
 
 <p>
