@@ -19,8 +19,20 @@ blog: true
   </div>
 
   <div class='ten columns gray' id="social" style="padding-bottom: 15px;">
-    <a href="https://twitter.com/share" class="twitter-share-button" data-via="Aqabawe" data-count="none" data-hashtags="RubyBites">Tweet</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>  </div>
+    <div id="myExtraContent12">
+      <ul class="social_links">
+        <li>
+          <a class="icon-twitter-sign" href="http://twitter.com/share?url=http://rubybites.com{{ page.url }}&text={{ page.title }}%20&hashtags=RubyBites,RubyOnRails&via=Aqabawe" target="_blank"></a>
+        </li>
+        <li>
+          <a href='http://www.facebook.com/share.php?u=http://rubybites.com{{ page.url }}' class="icon-facebook-sign"></a>
+        </li>
+        <li>
+          <a href="https://plus.google.com/share?url=http://rubybites.com{{ page.url }}" class="icon-google-plus-sign"></a>
+        </li>
+      </ul>
+    </div>
+
   <div class="ten columns" id="article-content">
     {{ content }}
   </div>
