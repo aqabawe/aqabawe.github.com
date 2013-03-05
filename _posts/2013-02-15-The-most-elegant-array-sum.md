@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Most Elegant Ruby Array Sum
-description: Ruby inject sum array or array arthimatic operations
+description: How to use Ruby inject to sum arrays and perform other arthimitic operations on arrays.
 keywords: ruby,rails,ruby bites,mamoun,saudi,aqabawe, inject, array sum
 ---
 
