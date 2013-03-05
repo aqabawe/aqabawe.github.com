@@ -1,6 +1,8 @@
 ---
 layout: post
 title: The Most Elegant Ruby Array Sum
+description: Ruby inject sum array or array arthimatic operations
+keywords: ruby,rails,ruby bites,mamoun,saudi,aqabawe, inject, array sum
 ---
 
 <p>

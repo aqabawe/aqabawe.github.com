@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Hello World!
+description: Ruby Bites welcome post.
+keywords: Ruby,Rails,Ruby Bites,Mamoun,Saudi,Aqabawe
 ---
 
 <p>
