@@ -1,6 +1,6 @@
 ﻿MAMOUN SAUDI - RESUME
 
-mamoun.saudi@gmail.com | +962 79 7129485
+aqabawe@gmail.com | +962 79 7129485
 
 INFORMATION 
 Date of birth: Nov 21st 1987
@@ -17,12 +17,15 @@ Excellent code aesthetic skills.
 ________________
 
 SPECIALTIES
-Ruby, Rails, JavaScript (jQuery), Postgresql, SQL, HAML/SASS, HTML5, Solr, Git, Amazon Web Services, EC2, Redis, Apache, Agile processes and methodology.
+Ruby, Rails, JavaScript (jQuery), Postgresql, SQL, HAML, SASS, HTML5, Solr, Elastic Search, Git, Linux, Redis, Sinatra, Apache, backbone.js
 ________________
 
 EXPERIENCE
+
 Web Developer, Boundless Drop
+
 April 2011 – Present
+
 Working on the development of the back-end logic of web applications and continuously adding value by suggesting and implementing improvements to functionality and user experience, as well as working on the implementation of solid JavaScript, Ruby, and various other technologies. Currently providing technical services to Akhtaboot.com the premier recruitment service in the middle east by working on various aspects of the service such as their CRM, Applicant Tracking System, White-labeled Career Solutions, API and the website itself.
 ________________
 
@@ -33,16 +36,20 @@ Bachelors of Computer Engineering
 2005 – 2011
 Relevant coursework includes: Digital logic and digital electronics, computer architecture, programming in JAVA, C++, Verilog and Prolog. Neural Networks and fuzzy logic, Artificial intelligence, Image processing and multimedia, Databases and computer algorithms. Assembly and Microcontrollers design.
 Completed Undergraduate Projects:
-1. Graduation Project: Designed and Implemented a Bluetooth server using Java linked to MySQL database, to broadcast university’s announcements to mobile phones which have the J2ME client installed.
-2. For the fuzzy logic and neural networks course a team mate and I developed and trained a linear neural network using MATLAB to evaluate the prices of used cars, and imported that network to a user-friendly interface.
+* Graduation Project: Designed and Implemented a Bluetooth server using Java linked to MySQL database, to broadcast university’s announcements to mobile phones which have the J2ME client installed.
+* For the fuzzy logic and neural networks course a team mate and I developed and trained a linear neural network using MATLAB to evaluate the prices of used cars, and imported that network to a user-friendly interface.
 Activities: IEEE JU
+
 Rosary Sisters' School
 Achieved 99.9% percentile in the Jordanian General Secondary Exam with 95.2 out of 100.
 Activities and Societies: Environment defenders club , Head of studies committee.
 ________________
 
 Activities/Participation
-Winner of the Arabnet Developers tournment 2012 - Amman
-Attended 2012 Golden Gate Ruby Conference, San Fransisco, CA
+
+Winner of the Arabnet Developers tournament 2012 - Amman
+Attended 2012 Golden Gate Ruby Conference, San Francisco, CA. (http://gogaruco.com/)
+Attended 2013 Commercial Users of Functional Programming, Boston, MA. (http://cufp.org/)
+IELTS Score of 8.0
 Avid participant in Amman Tech Tuesdays
-I also blog about Ruby, Rails and a bunch of stuff on http://rubybites.com
+I also blog about Ruby, Rails and a bunch of stuff on http://rubybites.com/
